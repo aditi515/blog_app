@@ -1,5 +1,5 @@
 package com.gl.blogApp.utils;
-
+/*
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
@@ -10,4 +10,7 @@ public class PasswordGeneratorEncoder {
         System.out.println(passwordEncoder.encode("password"));
 
     }
+
 }
+
+ */
